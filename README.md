@@ -4,7 +4,7 @@
 Create a review site that will contains a list of reviews using headless CMS and frontend parts.
 
 #### Team Members:
-Kirandeep Kaur
+Kirandeep Kaur <br>
 Ravinderpal Sharma
   
 ### Review Site Type
